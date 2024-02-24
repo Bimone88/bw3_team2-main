@@ -1,0 +1,73 @@
+ICONE:
+<i class="bi bi-search"></i> ricerca
+<i class="bi bi-house-door-fill"></i> home
+<i class="bi bi-suitcase-lg-fill"></i> lavoro
+<i class="bi bi-people-fill"></i> users
+<i class="bi bi-chat-dots"></i> chat
+<i class="bi bi-bell-fill"></i> notifiche
+<i class="bi bi-grid-3x3-gap"></i> griglia
+<i class="bi bi-pencil-fill"></i> matita
+<i class="bi bi-x-lg"></i> x
+<i class="bi bi-eye-fill"></i> occhio
+<i class="bi bi-radar"></i> radar
+<i class="bi bi-shield-shaded"></i> scudo
+<i class="bi bi-gear-fill"></i> setting
+<i class="bi bi-question-circle-fill"></i> question
+<i class="bi bi-plus-lg"></i> +
+<i class="bi bi-bar-chart-line-fill"></i> grafico
+<i class="bi bi-caret-left-fill"></i> freccia sinistra
+<i class="bi bi-caret-right-fill"></i> freccia destra
+<i class="bi bi-person-plus-fill"></i> aggiungi amico
+
+
+COMPITI GIORNO 1: 
+- SEZIONI: {
+-- Navbar (Simone)
+
+-- Pagina profilo:{
+. profilo (Francesco) -- FATTO 
+. analisi (Matteo) FATTO
+. risorse (Matteo) FATTO
+. informazioni (Giulio) fatto
+. esperienza (Giulio) //pensare struttura per fetch
+. formazione (Simone)
+. competenze (Simone)
+. lingue (Valerio)
+.interessi (Valerio) //pensare struttura per fetch (utenti registrati)
+}
+
+-- Footer (Giulio) fatto 
+
+-- Store Redux (Francesco / Matteo) --- FATTO
+
+//Da capire meglio
+--aside (parte di destra) ???
+}
+
+----------------
+
+COMPITI GIORNO 2:
+- Perfezionare la sezione Profilo (parte di ProfilePage) --> Aggiungere modale per la modifica informazioni e foto e pulsante per modale
+- Creare Redux per la modifica e l'inserimento delle foto e nuove informazioni
+- Montare tutti i componenti nel ProfilePage e poi nell'App
+- Creare redux per sezione Esperienze dinamica
+- Creare l'asaid di destra 
+
+-------------
+
+GIORNO 3:
+- Fetch Navbar per imagine e fetch per l'immagine e i dati della sottoNavBar (Francesco)
+- Modifiche profilo tramite modale (Francesco)
+- Modifiche esperienze COMPLETO (Giulio)
+- Card post HOMEPAGE (Valerio)
+- Redux per Post HOMEPAGE (Simone)
+- Creare sistema per cambio utente (Matteo)
+- Asaid sinitra HOMEPAGE (simone)
+
+--------------
+GIORNO 4:
+- Risolvere caricamento all'apparizione del sottoNavBar (Francesco)
+- Creare pagina statica JOBS (Matteo)
+- Creare Redux per pagina JOBS (Simone)
+- Risolvere sezione esperienze (Giulio)
+- giorno 5 ???? (Valerio)

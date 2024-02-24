@@ -1,0 +1,123 @@
+body {
+  background-color: #fffaf0 !important;
+}
+/* FOOTER */
+
+/* ho creato una classe per il css del footer */
+/* .footer a {
+  text-decoration: none;
+  color: rgb(52, 52, 52);
+}
+.footer a i {
+  font-size: 30px;
+}
+.footer-links {
+  align-items: flex-start;
+}
+.bi-caret-down-fill {
+  font-size: 12px !important;
+}
+.btn-custom :hover {
+  background-color: #f4f2ee !important;
+} */
+
+.testo-footer {
+  font-weight: 600;
+  opacity: 0.8;
+  font-size: small;
+}
+
+.d-flex {
+  font-weight: 100;
+}
+
+.d-flex {
+  font-weight: 100;
+}
+
+/* ESPERIENZA */
+
+#addExpBtn {
+  border-radius: 30%;
+  margin: 10px;
+  margin-left: 400px;
+}
+
+#addExpModal p {
+  margin: 22px;
+}
+#addExpModal2 {
+  padding: 25px;
+  padding-top: 30px;
+}
+#addExpModal2 input {
+  border: 1px solid rgb(52, 52, 52);
+}
+#addExpModal2 input:focus {
+  border: 2px solid black;
+}
+#addExpModal2 select:focus {
+  border: 2px solid black;
+}
+.add {
+  font-size: 25px;
+}
+.add :hover {
+  border-radius: 30%;
+  background-color: rgb(200, 200, 200) !important;
+}
+.mod {
+  font-size: 20px;
+}
+.mod :hover {
+  border-radius: 30%;
+  background-color: rgb(200, 200, 200) !important;
+}
+.mod a {
+  text-decoration: none;
+  color: black;
+}
+.expCard p {
+  font-size: 14px;
+  margin-bottom: 0;
+  color: rgb(111, 111, 111);
+}
+.expCard h2 {
+  font-size: 18px;
+}
+.expCard strong {
+  font-size: 24px;
+}
+
+/* MODESPERIENZA */
+
+.modCard a {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
+.modCard a :hover {
+  border-radius: 50%;
+  background-color: rgb(200, 200, 200) !important;
+}
+.modCard h2 {
+  font-size: 18px;
+}
+.modCard strong {
+  font-size: 24px;
+}
+.modCard p {
+  font-size: 14px;
+  margin-bottom: 0;
+  color: rgb(111, 111, 111);
+}
+.modIcons {
+  margin-left: 60px;
+}
+.delete {
+  font-size: 20px;
+}
+.delete :hover {
+  border-radius: 40%;
+  background-color: rgb(200, 200, 200) !important;
+}
